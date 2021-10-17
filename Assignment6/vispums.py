@@ -10,8 +10,8 @@ Programming Assignment 6 Visualizing PUMS Data
 import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
-import seaborn as sns
-from pprint import pprint
+# import seaborn as sns
+# from pprint import pprint
 
 
 # Ben - This code is really clean. Always impressed by the how clear things are. -Taten
